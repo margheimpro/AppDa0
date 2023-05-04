@@ -1,15 +1,15 @@
-package com.example.appda0
+package com.example.appda0.Screens
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import com.example.appda0.databinding.FragmentSecondBinding
+import com.example.appda0.databinding.ScreenProfileBinding
 
-class SecondFragment : Fragment() {
+class ProfileScreen : Fragment() {
 
-    private var binding: FragmentSecondBinding? = null
+    private lateinit var binding: ScreenProfileBinding
 
     override fun onCreateView(
         inflater: LayoutInflater,
@@ -17,8 +17,8 @@ class SecondFragment : Fragment() {
         savedInstanceState: Bundle?
     ): View? {
 
-        binding = FragmentSecondBinding.inflate(inflater, container, false)
-        return binding!!.root
+        binding = ScreenProfileBinding.inflate(inflater)
+        return binding.root
     }
 
 }

@@ -11,4 +11,6 @@
     <color name="white">#FFFFFFFF</color>
     <color name="petr">#266B8B</color>
     <color name="lilac">#6B579A</color>
+    <color name="grey">#5A5252</color>
+
 </resources>

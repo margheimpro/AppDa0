@@ -1,15 +1,15 @@
-package com.example.appda0
+package com.example.appda0.Screens
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import com.example.appda0.databinding.FragmentFirstBinding
+import com.example.appda0.databinding.ScreenSettingsBinding
 
-class FirstFragment : Fragment() {
+class SettingsScreen : Fragment() {
 
-    private var binding: FragmentFirstBinding? = null
+    private lateinit var binding: ScreenSettingsBinding
 
     override fun onCreateView(
         inflater: LayoutInflater,
@@ -17,8 +17,8 @@ class FirstFragment : Fragment() {
         savedInstanceState: Bundle?
     ): View? {
 
-        binding = FragmentFirstBinding.inflate(inflater, container, false)
-        return binding!!.root
+        binding = ScreenSettingsBinding.inflate(inflater)
+        return binding.root
     }
 
 }
