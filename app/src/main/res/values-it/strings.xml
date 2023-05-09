@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Spongebob</string>
+    <string name="edit_text">Scrivi si o no</string>
+    <string name="home_welcome">Benvenuti a Bikini Bottom!</string>
+    <string name="home_icon">Home</string>
+    <string name="characters_icon">Personaggi</string>
+    <string name="riddle_icon">Indovinello</string>
+    <string name="profile_info">Rispondi all\'indovinello</string>
+    <string name="profile_riddle">Chi viaggia in tutto il mondo stando in un angolo?</string>
+    <string name="home_question">Ti piace Spongebob?</string>
+    <string name="home_button_yes">SI</string>
+    <string name="home_button_no">NO</string>
+    <string name="toast_yes">Molto bene!</string>
+    <string name="toast_no">Lascia questa app! Non ne sei degno</string>
+    <string name="riddle_text">Scrivi qui la risposta</string>
+    <string name="question_text">Spongebob è un cuoco nel fast food di Mr.Krabb. Come si chiama l\'hamburger, specialità del ristorante?</string>
+    <string name="answer_button_text">Controlla</string>
+    <string name="toast_correct_Answer">Corretto!</string>
+    <string name="toast_not_correct_Answer">Riprova!</string>
+</resources>

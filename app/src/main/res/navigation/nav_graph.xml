@@ -10,13 +10,13 @@
         android:label="screen_home"
         tools:layout="@layout/screen_home" />
     <fragment
-        android:id="@+id/profileScreen"
-        android:name="com.example.appda0.Screens.ProfileScreen"
-        android:label="screen_profile"
-        tools:layout="@layout/screen_profile" />
+        android:id="@+id/charactersScreen"
+        android:name="com.example.appda0.Screens.CharactersScreen"
+        android:label="screen_characters"
+        tools:layout="@layout/screen_characters" />
     <fragment
-        android:id="@+id/settingsScreen"
-        android:name="com.example.appda0.Screens.SettingsScreen"
-        android:label="screen_settings"
-        tools:layout="@layout/screen_settings" />
+        android:id="@+id/riddlesScreen"
+        android:name="com.example.appda0.Screens.RiddlesScreen"
+        android:label="screen_riddles"
+        tools:layout="@layout/screen_riddles" />
 </navigation>

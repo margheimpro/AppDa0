@@ -1,12 +1,20 @@
 <resources>
-    <string name="app_name">AppDaZero</string>
-    <string name="settings_text">Settings</string>
-    <string name="profile_text">Profile</string>
-    <string name="home_text">Hello World!</string>
-
+    <string name="app_name">SpongeBob</string>
+    <string name="edit_text">Write yes or no</string>
+    <string name="home_welcome">Welcome to Bikini Bottom!</string>
     <string name="home_icon">Home</string>
-    <string name="profile_icon">Profile</string>
-    <string name="settings_icon">Settings</string>
-
-
+    <string name="characters_icon">Characters</string>
+    <string name="riddle_icon">Riddle</string>
+    <string name="profile_info">Answer the riddle</string>
+    <string name="profile_riddle">Who travels around the world in the corner?</string>
+    <string name="home_question">Do you like Spongebob Square Pants?</string>
+    <string name="home_button_yes">YES</string>
+    <string name="home_button_no">NO</string>
+    <string name="toast_yes">Very good!</string>
+    <string name="toast_no">Leave! you are not worthy to use this app!</string>
+    <string name="riddle_text">Write your answer here</string>
+    <string name="question_text">Spongebob is a cook in Mr.Krab\'s fast food restaurant.What is the name of the hamburger, the specialty of the restaurant?</string>
+    <string name="answer_button_text">Push to check</string>
+    <string name="toast_correct_Answer">Correct!</string>
+    <string name="toast_not_correct_Answer">Retry!</string>
 </resources>

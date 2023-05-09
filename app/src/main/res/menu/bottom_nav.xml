@@ -3,17 +3,17 @@
     <item
         android:id="@+id/homeScreen"
         android:title="@string/home_icon"
-        android:icon="@drawable/home"
+        android:icon="@drawable/icons8_gary_the_snail"
         />
     <item
-        android:id="@+id/profileScreen"
-        android:title="@string/profile_icon"
-        android:icon="@drawable/person"
+        android:id="@+id/charactersScreen"
+        android:title="@string/characters_icon"
+        android:icon="@drawable/icons8_spongebob_squarepants"
         />
     <item
-        android:id="@+id/settingsScreen"
-        android:title="@string/settings_icon"
-        android:icon="@drawable/settings"
+        android:id="@+id/riddlesScreen"
+        android:title="@string/riddle_icon"
+        android:icon="@drawable/icons8_patrick_star"
         />
 
 
